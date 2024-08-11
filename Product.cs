@@ -9,6 +9,7 @@ namespace ConsoleApp5
         public int pid { get; set; }
         public string product_name { get; set; }
         public double price { get; set; }
+        public double categories { get; set;}
 
     }
 }
